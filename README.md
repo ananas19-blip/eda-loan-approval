@@ -1,15 +1,15 @@
 # eda-loan-approval
-# 📊 Loan Approval Risk Analysis — Exploratory Data Analysis
+# 📊 Loan Approval Decision Analysis — Exploratory Data Analysis
 
 ## 🧠 Project Overview
 
-Pada proyek ini saya melakukan **Exploratory Data Analysis (EDA)** pada dataset pengajuan pinjaman bank untuk memahami **bagaimana bank menilai risiko kredit calon peminjam**.
+Pada proyek ini saya melakukan **Exploratory Data Analysis (EDA)** pada dataset pengajuan pinjaman bank untuk memahami **bagaimana bank menilai resiko kredit calon peminjam**.
 
 Tujuan utama analisis bukan membuat model machine learning, melainkan:
 
 > menemukan pola keputusan approval menggunakan pendekatan analisis data bisnis.
 
-Dataset berisi ±45.000 data pemohon dengan informasi demografi, finansial, dan riwayat kredit.
+Dataset berisi 45.000 data pemohon dengan informasi demografi, finansial, dan riwayat kredit.
 
 ---
 
