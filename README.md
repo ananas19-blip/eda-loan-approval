@@ -1,9 +1,4 @@
 # eda-loan-approval
-Siap 👍
-Berikut versi **portfolio / recruiter-friendly README** — lebih ringkas, fokus value, dan hanya sampai EDA (tanpa sebut dashboard / Tableau).
-
----
-
 # 📊 Loan Approval Risk Analysis — Exploratory Data Analysis
 
 ## 🧠 Project Overview
